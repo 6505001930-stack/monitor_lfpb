@@ -1,14 +1,14 @@
 {
-  "run_time": "2026-08-20T09:30:39.106114+00:00",
+  "run_time": "2026-08-20T10:21:16.407051+00:00",
   "forecast_day": "2026-08-20",
   "models": {
     "ecmwf_ifs025": 24.0,
     "gfs_seamless": 24.8,
     "icon_seamless": 24.9,
-    "meteofrance_seamless": 24.8,
+    "meteofrance_seamless": 25.0,
     "ukmo_seamless": 22.6,
-    "gem_seamless": 24.6
+    "gem_seamless": 24.4
   },
   "taf_raw": "TAF LFPB 200500Z 2006/2106 22008KT CAVOK BECMG 2010/2012 22015G25KT TEMPO 2014/2018 BKN030TCU PROB40 TEMPO 2015/2018 4000 SHRA BECMG 2019/2021 24008KT",
-  "metar_raw": "METAR LFPB 200900Z AUTO 23013KT 200V260 9999 FEW033 20/12 Q1010 BECMG 22015G25KT"
+  "metar_raw": "METAR LFPB 201000Z AUTO 23013KT 190V270 9999 BKN038 22/13 Q1010 BECMG 22015G25KT"
 }
