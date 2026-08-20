@@ -1,0 +1,42 @@
+name: LFPB weather monitor
+
+on:
+  schedule:
+    # 3 minutes past 02/08/14/20 UTC, giving the 00/06/12/18Z model runs
+    # time to be ingested before we poll them.
+    - cron: "3 2,8,14,20 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: lfpb-monitor
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run monitor
+        env:
+          METEOFRANCE_API_TOKEN: ${{ secrets.METEOFRANCE_API_TOKEN }}
+        run: python monitor_lfpb.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "lfpb-monitor-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update LFPB weather data [skip ci]"
+            git push
+          fi

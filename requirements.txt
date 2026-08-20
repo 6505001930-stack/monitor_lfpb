@@ -1,0 +1,2 @@
+# monitor_lfpb.py only uses the Python standard library (urllib, json).
+# This file is kept for future dependencies / clarity in CI.
