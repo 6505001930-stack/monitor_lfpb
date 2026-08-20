@@ -2,9 +2,10 @@ name: LFPB weather monitor
 
 on:
   schedule:
-    # 3 minutes past 02/08/14/20 UTC, giving the 00/06/12/18Z model runs
-    # time to be ingested before we poll them.
-    - cron: "3 2,8,14,20 * * *"
+    # Meteo-France's infrahoraire-6m station observation refreshes every
+    # ~6-7 minutes; poll at that cadence. Open-Meteo/TAF/METAR are fetched
+    # on the same schedule even though they update less often.
+    - cron: "*/7 * * * *"
   workflow_dispatch: {}
 
 permissions:
