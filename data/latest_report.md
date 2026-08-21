@@ -1,4 +1,4 @@
-# LFPB weather report — 2026-08-21T21:54:36.012457+00:00
+# LFPB weather report — 2026-08-21T22:25:34.928625+00:00
 
 ## Open-Meteo daily max (2026-08-21)
 
@@ -22,8 +22,8 @@ TAF LFPB 211700Z 2118/2218 35015G25KT 9999 FEW040CB BKN080 BECMG 2118/2120 CAVOK
 No change since last run.
 
 ## METAR (latest)
-`METAR LFPB 212130Z AUTO VRB03KT CAVOK 16/12 Q1016 BECMG 35015G25KT`
+`METAR LFPB 212200Z AUTO VRB02KT CAVOK 16/12 Q1016 BECMG 35015G25KT`
 
 ## Meteo-France station observation (Le Bourget, 95088001)
-Validity: 2026-08-21T21:48:00Z
-Temp: 15.8°C, Humidity: 78%, Wind: 320°/1.6 m/s
+Validity: 2026-08-21T22:18:00Z
+Temp: 15.6°C, Humidity: 79%, Wind: 280°/2.2 m/s
