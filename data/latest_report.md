@@ -1,4 +1,4 @@
-# LFPB weather report — 2026-08-23T14:38:20.552534+00:00
+# LFPB weather report — 2026-08-23T14:40:32.737295+00:00
 
 ## Open-Meteo daily max (2026-08-23)
 
@@ -7,7 +7,7 @@
 | ecmwf_ifs025 | 22.4 | 22.4 | 0.0 |
 | gfs_seamless | 25.1 | 25.1 | 0.0 |
 | icon_seamless | 23.9 | 23.9 | 0.0 |
-| meteofrance_seamless | 24.2 | 24.1 | -0.1 |
+| meteofrance_seamless | 24.1 | 24.1 | 0.0 |
 | ukmo_seamless | 24.3 | 24.3 | 0.0 |
 | gem_seamless | 23.6 | 23.6 | 0.0 |
 
