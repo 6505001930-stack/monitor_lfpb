@@ -1,12 +1,12 @@
 {
-  "run_time": "2026-08-23T16:21:32.084739+00:00",
+  "run_time": "2026-08-23T16:27:25.268103+00:00",
   "forecast_day": "2026-08-23",
   "models": {
     "ecmwf_ifs025": 22.4,
     "gfs_seamless": 25.1,
-    "icon_seamless": 23.9,
+    "icon_seamless": 23.6,
     "meteofrance_seamless": 24.2,
-    "ukmo_seamless": 24.4,
+    "ukmo_seamless": 24.3,
     "gem_seamless": 23.5
   },
   "taf_raw": "TAF LFPB 231100Z 2312/2412 04010G20KT CAVOK TEMPO 2410/2412 08015G25KT",
