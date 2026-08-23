@@ -1,5 +1,5 @@
 {
-  "run_time": "2026-08-23T08:44:13.952895+00:00",
+  "run_time": "2026-08-23T09:12:04.762185+00:00",
   "forecast_day": "2026-08-23",
   "models": {
     "ecmwf_ifs025": 22.5,
@@ -10,5 +10,5 @@
     "gem_seamless": 23.4
   },
   "taf_raw": "TAF LFPB 230500Z 2306/2406 02005KT CAVOK",
-  "metar_raw": "METAR LFPB 230830Z AUTO 05011KT 020V080 CAVOK 18/10 Q1024 NOSIG"
+  "metar_raw": "METAR LFPB 230900Z AUTO 04011KT CAVOK 19/10 Q1024 NOSIG"
 }
