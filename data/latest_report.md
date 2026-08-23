@@ -1,4 +1,4 @@
-# LFPB weather report — 2026-08-23T14:14:46.634051+00:00
+# LFPB weather report — 2026-08-23T14:20:08.014855+00:00
 
 ## Open-Meteo daily max (2026-08-23)
 
@@ -8,7 +8,7 @@
 | gfs_seamless | 25.1 | 25.1 | 0.0 |
 | icon_seamless | 23.9 | 23.9 | 0.0 |
 | meteofrance_seamless | 24.2 | 24.2 | 0.0 |
-| ukmo_seamless | 24.4 | 24.4 | 0.0 |
+| ukmo_seamless | 24.4 | 24.3 | -0.1 |
 | gem_seamless | 23.6 | 23.6 | 0.0 |
 
 Consensus range: **22.4–25.1°C** (mean 23.9°C)
@@ -25,5 +25,5 @@ No change since last run.
 `METAR LFPB 231400Z AUTO 05008KT 360V100 CAVOK 24/07 Q1022 NOSIG`
 
 ## Meteo-France station observation (Le Bourget, 95088001)
-Validity: 2026-08-23T14:06:00Z
-Temp: 24.7°C, Humidity: 33%, Wind: 70°/4.4 m/s
+Validity: 2026-08-23T14:12:00Z
+Temp: 23.6°C, Humidity: 34%, Wind: 50°/5.2 m/s
