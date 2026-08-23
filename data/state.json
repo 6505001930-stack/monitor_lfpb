@@ -1,8 +1,8 @@
 {
-  "run_time": "2026-08-23T13:02:51.342322+00:00",
+  "run_time": "2026-08-23T13:11:41.715059+00:00",
   "forecast_day": "2026-08-23",
   "models": {
-    "ecmwf_ifs025": 22.5,
+    "ecmwf_ifs025": 22.4,
     "gfs_seamless": 25.1,
     "icon_seamless": 23.9,
     "meteofrance_seamless": 24.2,
