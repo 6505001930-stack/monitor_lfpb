@@ -1,4 +1,4 @@
-# LFPB weather report — 2026-08-23T14:20:08.014855+00:00
+# LFPB weather report — 2026-08-23T14:22:36.348036+00:00
 
 ## Open-Meteo daily max (2026-08-23)
 
@@ -8,7 +8,7 @@
 | gfs_seamless | 25.1 | 25.1 | 0.0 |
 | icon_seamless | 23.9 | 23.9 | 0.0 |
 | meteofrance_seamless | 24.2 | 24.2 | 0.0 |
-| ukmo_seamless | 24.4 | 24.3 | -0.1 |
+| ukmo_seamless | 24.3 | 24.3 | 0.0 |
 | gem_seamless | 23.6 | 23.6 | 0.0 |
 
 Consensus range: **22.4–25.1°C** (mean 23.9°C)
