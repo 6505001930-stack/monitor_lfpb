@@ -1,14 +1,14 @@
 {
-  "run_time": "2026-08-25T13:41:53.391331+00:00",
+  "run_time": "2026-08-25T14:28:56.285993+00:00",
   "forecast_day": "2026-08-25",
   "models": {
     "ecmwf_ifs025": 27.7,
     "gfs_seamless": 28.4,
     "icon_seamless": 28.6,
     "meteofrance_seamless": 27.9,
-    "ukmo_seamless": 28.0,
+    "ukmo_seamless": 28.7,
     "gem_seamless": 28.2
   },
   "taf_raw": "TAF LFPB 251100Z 2512/2612 19010KT CAVOK PROB40 TEMPO 2517/2520 VRB15G25KT 4000 -SHRA SCT050TCU PROB30 TEMPO 2517/2520 -TSRA FEW060CB ",
-  "metar_raw": "METAR LFPB 251330Z AUTO 18005KT 080V250 CAVOK 28/14 Q1010 NOSIG"
+  "metar_raw": "METAR LFPB 251400Z AUTO 26005KT 170V330 CAVOK 28/13 Q1010 NOSIG"
 }
