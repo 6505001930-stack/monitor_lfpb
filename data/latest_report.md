@@ -1,29 +1,33 @@
-# LFPB weather report — 2026-08-26T21:49:07.418621+00:00
+# LFPB weather report — 2026-08-27T02:27:18.622495+00:00
 
-## Open-Meteo daily max (2026-08-26)
+## Open-Meteo daily max (2026-08-27)
 
 | Model | Prev (°C) | Now (°C) | Delta |
 |---|---|---|---|
-| ecmwf_ifs025 | 28.7 | 29.6 | +0.9 |
-| gfs_seamless | 29.4 | 29.4 | 0.0 |
-| icon_seamless | 29.4 | 29.4 | 0.0 |
-| meteofrance_seamless | 29.5 | 29.5 | 0.0 |
-| ukmo_seamless | 29.5 | 29.3 | -0.2 |
-| gem_seamless | 29.0 | 29.0 | 0.0 |
+| ecmwf_ifs025 | 29.6 | 28.4 | -1.2 |
+| gfs_seamless | 29.4 | 29.3 | -0.1 |
+| icon_seamless | 29.4 | 26.6 | -2.8 |
+| meteofrance_seamless | 29.5 | 28.2 | -1.3 |
+| ukmo_seamless | 29.3 | 27.2 | -2.1 |
+| gem_seamless | 29.0 | 27.7 | -1.3 |
 
-Consensus range: **29.0–29.6°C** (mean 29.4°C)
+Consensus range: **26.6–29.3°C** (mean 27.9°C)
 
 ## TAF
-Issued: 2026-08-26T18:02:00.000Z
+Issued: 2026-08-26T23:00:00.000Z
+```
+TAF LFPB 262300Z 2700/2724 08009KT CAVOK TEMPO 2701/2704 VRB15G25KT 4000 TSRA BKN020CB PROB30 TEMPO 2702/2704 VRB25G35KT TSRAGR BECMG 2706/2709 20010KT PROB30 TEMPO 2716/2720 VRB15G25KT 4000 -TSRA BKN025CB
+```
+
+**TAF changed since last run.**
+Previous:
 ```
 TAF AMD LFPB 261802Z 2618/2718 11008KT CAVOK TEMPO 2701/2704 VRB15G25KT 4000 SHRA BKN020CB PROB40 TEMPO 2701/2704 VRB25G35KT 2000 TSRAGR BECMG 2706/2709 20010KT PROB30 TEMPO 2716/2718 VRB15G25KT 4000 -TSRA BKN025CB
 ```
 
-No change since last run.
-
 ## METAR (latest)
-`METAR LFPB 262130Z AUTO 07006KT CAVOK 24/15 Q1010 NOSIG`
+`METAR LFPB 270200Z AUTO 25016G26KT 9999 TSRA FEW020/// BKN040/// BKN078/// ///CB 21/18 Q1010 TEMPO 4000 TSRA`
 
 ## Meteo-France station observation (Le Bourget, 95088001)
-Validity: 2026-08-26T21:42:00Z
-Temp: 23.9°C, Humidity: 56%, Wind: 80°/3.2 m/s
+Validity: 2026-08-27T02:18:00Z
+Temp: 20.1°C, Humidity: 92%, Wind: 260°/4.4 m/s
