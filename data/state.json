@@ -1,14 +1,14 @@
 {
-  "run_time": "2026-08-27T22:55:45.380096+00:00",
-  "forecast_day": "2026-08-27",
+  "run_time": "2026-08-28T06:49:13.910580+00:00",
+  "forecast_day": "2026-08-28",
   "models": {
-    "ecmwf_ifs025": 26.1,
-    "gfs_seamless": 28.2,
-    "icon_seamless": 26.9,
-    "meteofrance_seamless": 27.9,
-    "ukmo_seamless": 27.0,
-    "gem_seamless": 26.9
+    "ecmwf_ifs025": 20.9,
+    "gfs_seamless": 24.0,
+    "icon_seamless": 23.1,
+    "meteofrance_seamless": 22.3,
+    "ukmo_seamless": 21.9,
+    "gem_seamless": 20.1
   },
-  "taf_raw": "TAF AMD LFPB 271822Z 2718/2818 VRB03KT CAVOK BECMG 2723/2802 20005KT PROB30 TEMPO 2805/2808 BKN014 PROB40 TEMPO 2806/2809 4000 -TSRA BKN016CB PROB30 TEMPO 2812/2817 22015G25KT 4000 SHRA SCT030CB",
-  "metar_raw": "METAR LFPB 272230Z AUTO VRB02KT CAVOK 18/17 Q1009 NOSIG"
+  "taf_raw": "TAF LFPB 280500Z 2806/2906 20010KT CAVOK TX24/2815Z TN16/2905Z TEMPO 2806/2817 4500 -SHRA SCT035TCU PROB40 TEMPO 2807/2810 18015G25KT 2500 TSRA BKN025CB PROB30 TEMPO 2812/2817 VRB15G25KT 3500 -TSRA BKN030CB BECMG 2902/2904 BKN020",
+  "metar_raw": "METAR LFPB 280630Z AUTO 13006KT 100V160 9999 FEW039/// OVC088/// ///CB 18/17 Q1009 TEMPO 18015G25KT 2500 TSRA"
 }
