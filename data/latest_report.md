@@ -1,33 +1,33 @@
-# LFPB weather report — 2026-09-09T00:43:17.659776+00:00
+# LFPB weather report — 2026-09-09T05:22:45.095199+00:00
 
 ## Open-Meteo daily max (2026-09-09)
 
 | Model | Prev (°C) | Now (°C) | Delta |
 |---|---|---|---|
-| ecmwf_ifs025 | 25.2 | 21.2 | -4.0 |
-| gfs_seamless | 27.2 | 21.2 | -6.0 |
-| icon_seamless | 26.0 | 21.2 | -4.8 |
-| meteofrance_seamless | 26.1 | 21.0 | -5.1 |
-| ukmo_seamless | 26.1 | 19.4 | -6.7 |
-| gem_seamless | 26.2 | 21.0 | -5.2 |
+| ecmwf_ifs025 | 21.2 | 20.8 | -0.4 |
+| gfs_seamless | 21.2 | 21.2 | 0.0 |
+| icon_seamless | 21.2 | 20.9 | -0.3 |
+| meteofrance_seamless | 21.0 | 21.6 | +0.6 |
+| ukmo_seamless | 19.4 | 20.3 | +0.9 |
+| gem_seamless | 21.0 | 21.1 | +0.1 |
 
-Consensus range: **19.4–21.2°C** (mean 20.8°C)
+Consensus range: **20.3–21.6°C** (mean 21.0°C)
 
 ## TAF
-Issued: 2026-09-08T23:00:00.000Z
+Issued: 2026-09-09T05:00:00.000Z
 ```
-TAF LFPB 082300Z 0900/0924 26005KT CAVOK BECMG 0912/0914 32010KT BECMG 0922/0924 VRB03KT
+TAF LFPB 090500Z 0906/1006 27010KT CAVOK PROB40 TEMPO 1004/1006 VRB03KT
 ```
 
 **TAF changed since last run.**
 Previous:
 ```
-TAF AMD LFPB 081826Z 0818/0918 29015G25KT 9999 SCT030 BECMG 0818/0820 29010KT
+TAF LFPB 082300Z 0900/0924 26005KT CAVOK BECMG 0912/0914 32010KT BECMG 0922/0924 VRB03KT
 ```
 
 ## METAR (latest)
-`METAR LFPB 090030Z AUTO 25007KT CAVOK 14/10 Q1014 NOSIG`
+`METAR LFPB 090500Z AUTO 26005KT CAVOK 13/10 Q1015 NOSIG`
 
 ## Meteo-France station observation (Le Bourget, 95088001)
-Validity: 2026-09-09T00:30:00Z
-Temp: 14.0°C, Humidity: 79%, Wind: 250°/3.4 m/s
+Validity: 2026-09-09T05:12:00Z
+Temp: 12.4°C, Humidity: 84%, Wind: 260°/1.6 m/s
