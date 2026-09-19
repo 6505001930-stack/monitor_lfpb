@@ -1,5 +1,5 @@
 {
-  "run_time": "2026-09-19T21:35:34.384172+00:00",
+  "run_time": "2026-09-19T23:32:49.207424+00:00",
   "forecast_day": "2026-09-19",
   "models": {
     "ecmwf_ifs025": 24.3,
@@ -10,5 +10,5 @@
     "gem_seamless": 24.1
   },
   "taf_raw": "TAF LFPB 191700Z 1918/2018 27008KT CAVOK PROB40 TEMPO 2006/2009 BKN014",
-  "metar_raw": "METAR LFPB 192130Z AUTO 00000KT CAVOK 19/11 Q1023 NOSIG"
+  "metar_raw": "METAR LFPB 192330Z AUTO 00000KT CAVOK 16/11 Q1024 NOSIG"
 }
