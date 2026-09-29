@@ -1,14 +1,14 @@
 {
-  "run_time": "2026-09-29T02:42:19.228592+00:00",
+  "run_time": "2026-09-29T09:06:18.585504+00:00",
   "forecast_day": "2026-09-29",
   "models": {
-    "ecmwf_ifs025": 26.9,
-    "gfs_seamless": 28.6,
-    "icon_seamless": 27.4,
+    "ecmwf_ifs025": 26.7,
+    "gfs_seamless": 28.1,
+    "icon_seamless": 28.4,
     "meteofrance_seamless": 28.7,
-    "ukmo_seamless": 27.4,
+    "ukmo_seamless": 27.6,
     "gem_seamless": 27.5
   },
-  "taf_raw": "TAF LFPB 282300Z 2900/2924 04003KT CAVOK BECMG 2912/2914 18010KT",
-  "metar_raw": "METAR LFPB 290230Z AUTO 01004KT 330V040 CAVOK 17/15 Q1017 NOSIG"
+  "taf_raw": "TAF LFPB 290500Z 2906/3006 08005KT CAVOK BECMG 2912/2914 18010KT",
+  "metar_raw": "METAR LFPB 290900Z AUTO 18006KT 150V210 CAVOK 21/15 Q1016"
 }
