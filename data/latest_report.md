@@ -1,33 +1,33 @@
-# LFPB weather report — 2026-10-19T14:33:52.108387+00:00
+# LFPB weather report — 2026-10-19T20:09:49.569187+00:00
 
 ## Open-Meteo daily max (2026-10-19)
 
 | Model | Prev (°C) | Now (°C) | Delta |
 |---|---|---|---|
-| ecmwf_ifs025 | 15.6 | 13.8 | -1.8 |
-| gfs_seamless | 15.3 | 14.7 | -0.6 |
-| icon_seamless | 13.9 | 13.3 | -0.6 |
-| meteofrance_seamless | 14.3 | 15.6 | +1.3 |
-| ukmo_seamless | 14.6 | 13.5 | -1.1 |
-| gem_seamless | 15.6 | 15.7 | +0.1 |
+| ecmwf_ifs025 | 13.8 | 13.8 | 0.0 |
+| gfs_seamless | 14.7 | 14.5 | -0.2 |
+| icon_seamless | 13.3 | 13.0 | -0.3 |
+| meteofrance_seamless | 15.6 | 13.7 | -1.9 |
+| ukmo_seamless | 13.5 | 12.9 | -0.6 |
+| gem_seamless | 15.7 | 14.7 | -1.0 |
 
-Consensus range: **13.3–15.7°C** (mean 14.4°C)
+Consensus range: **12.9–14.7°C** (mean 13.8°C)
 
 ## TAF
-Issued: 2026-10-19T12:07:00.000Z
+Issued: 2026-10-19T17:00:00.000Z
 ```
-TAF AMD LFPB 191207Z 1912/2012 04006KT 8000 BKN013 BECMG 1912/1915 BKN020 BECMG 2005/2008 12010KT 4000 -RADZ BKN010 BECMG 2010/2012 20010KT
+TAF LFPB 191700Z 1918/2018 07005KT 9999 BKN018 PROB30 TEMPO 1918/2005 BKN014 BECMG 2005/2008 13010KT BKN012 TEMPO 2009/2016 BKN006 PROB40 TEMPO 2009/2018 4000 -DZ BECMG 2010/2012 20010KT
 ```
 
 **TAF changed since last run.**
 Previous:
 ```
-TAF LFPB 190500Z 1906/2006 07005KT 6000 NSC TEMPO 1906/1910 3000 BR BKN003 PROB40 TEMPO 1906/1909 0500 FG VV/// BECMG 1910/1912 BKN016 PROB40 TEMPO 2003/2006 06010G20KT 4000 -RA BKN013
+TAF AMD LFPB 191207Z 1912/2012 04006KT 8000 BKN013 BECMG 1912/1915 BKN020 BECMG 2005/2008 12010KT 4000 -RADZ BKN010 BECMG 2010/2012 20010KT
 ```
 
 ## METAR (latest)
-`METAR LFPB 191430Z AUTO 01004KT 330V030 9999 OVC017 12/09 Q1021 NOSIG`
+`METAR LFPB 192000Z AUTO 05005KT 9999 OVC020 13/10 Q1018 TEMPO BKN014`
 
 ## Meteo-France station observation (Le Bourget, 95088001)
-Validity: 2026-10-19T14:30:00Z
-Temp: 12.2°C, Humidity: 81%, Wind: 10°/2.3 m/s
+Validity: 2026-10-19T20:00:00Z
+Temp: 12.9°C, Humidity: 85%, Wind: 50°/2.7 m/s
