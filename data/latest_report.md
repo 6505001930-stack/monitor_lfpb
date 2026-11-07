@@ -1,33 +1,33 @@
-# LFPB weather report — 2026-11-07T02:11:22.134432+00:00
+# LFPB weather report — 2026-11-07T08:50:03.497536+00:00
 
 ## Open-Meteo daily max (2026-11-07)
 
 | Model | Prev (°C) | Now (°C) | Delta |
 |---|---|---|---|
-| ecmwf_ifs025 | 10.9 | 10.2 | -0.7 |
-| gfs_seamless | 9.3 | 12.1 | +2.8 |
-| icon_seamless | 12.6 | 11.7 | -0.9 |
-| meteofrance_seamless | 12.8 | 11.1 | -1.7 |
-| ukmo_seamless | 11.9 | 11.2 | -0.7 |
-| gem_seamless | 12.6 | 10.1 | -2.5 |
+| ecmwf_ifs025 | 10.2 | 9.6 | -0.6 |
+| gfs_seamless | 12.1 | 11.9 | -0.2 |
+| icon_seamless | 11.7 | 10.4 | -1.3 |
+| meteofrance_seamless | 11.1 | 10.1 | -1.0 |
+| ukmo_seamless | 11.2 | 9.9 | -1.3 |
+| gem_seamless | 10.1 | 9.9 | -0.2 |
 
-Consensus range: **10.1–12.1°C** (mean 11.1°C)
+Consensus range: **9.6–11.9°C** (mean 10.3°C)
 
 ## TAF
-Issued: 2026-11-07T00:57:00.000Z
+Issued: 2026-11-07T05:00:00.000Z
 ```
-TAF AMD LFPB 070057Z 0700/0724 VRB02KT 1500 BR NSC TEMPO 0700/0706 0600 FG BKN003 PROB40 TEMPO 0706/0708 0800 FG BECMG 0709/0711 22006KT 9999 NSW BKN020
+TAF LFPB 070500Z 0706/0806 24003KT 0600 FG VV/// BECMG 0707/0709 4000 BR BKN008 BECMG 0709/0711 9999 NSW SCT012 BKN025 PROB40 TEMPO 0804/0806 3000 BR
 ```
 
 **TAF changed since last run.**
 Previous:
 ```
-TAF AMD LFPB 062155Z 0621/0718 VRB02KT 4000 BR NSC PROB40 TEMPO 0621/0709 2500 BR PROB40 TEMPO 0700/0708 0600 FG BKN002 BECMG 0709/0710 9999 NSW BKN020
+TAF AMD LFPB 070057Z 0700/0724 VRB02KT 1500 BR NSC TEMPO 0700/0706 0600 FG BKN003 PROB40 TEMPO 0706/0708 0800 FG BECMG 0709/0711 22006KT 9999 NSW BKN020
 ```
 
 ## METAR (latest)
-`METAR LFPB 070200Z AUTO 03002KT 3600 0400 R27/0550U R09/P2000 R07/P2000 BCFG VV/// 02/02 Q1023 TEMPO 0600 FG BKN003`
+`METAR LFPB 070830Z AUTO VRB03KT 0250 R27/0300N R09/0350N R07/0350N FG VV/// 03/03 Q1024`
 
 ## Meteo-France station observation (Le Bourget, 95088001)
-Validity: 2026-11-07T02:06:00Z
-Temp: 2.2°C, Humidity: 96%, Wind: 20°/1.1 m/s
+Validity: 2026-11-07T08:36:00Z
+Temp: 3.5°C, Humidity: 99%, Wind: 150°/1.0 m/s
