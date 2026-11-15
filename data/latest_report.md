@@ -1,29 +1,33 @@
-# LFPB weather report — 2026-11-14T23:14:53.168656+00:00
+# LFPB weather report — 2026-11-15T02:49:32.294852+00:00
 
-## Open-Meteo daily max (2026-11-14)
+## Open-Meteo daily max (2026-11-15)
 
 | Model | Prev (°C) | Now (°C) | Delta |
 |---|---|---|---|
-| ecmwf_ifs025 | 9.0 | 9.5 | +0.5 |
-| gfs_seamless | 10.4 | 10.4 | 0.0 |
-| icon_seamless | 10.2 | 10.2 | 0.0 |
-| meteofrance_seamless | 10.5 | 10.5 | 0.0 |
-| ukmo_seamless | 10.5 | 10.4 | -0.1 |
-| gem_seamless | 9.7 | 9.7 | 0.0 |
+| ecmwf_ifs025 | 9.5 | 12.1 | +2.6 |
+| gfs_seamless | 10.4 | 12.5 | +2.1 |
+| icon_seamless | 10.2 | 12.5 | +2.3 |
+| meteofrance_seamless | 10.5 | 12.9 | +2.4 |
+| ukmo_seamless | 10.4 | 12.4 | +2.0 |
+| gem_seamless | 9.7 | 13.3 | +3.6 |
 
-Consensus range: **9.5–10.5°C** (mean 10.1°C)
+Consensus range: **12.1–13.3°C** (mean 12.6°C)
 
 ## TAF
-Issued: 2026-11-14T17:00:00.000Z
+Issued: 2026-11-15T01:13:00.000Z
+```
+TAF AMD LFPB 150113Z 1501/1524 18010KT 9999 BKN025 BECMG 1501/1503 20010KT BKN025 PROB40 TEMPO 1501/1504 4000 -DZRA BKN007 BECMG 1504/1506 OVC003 TEMPO 1508/1512 4000 -DZ BECMG 1512/1513 19015G25KT 4500 -RA BKN015 TEMPO 1513/1517 2000 RA BECMG 1516/1517 21015G30KT 9999 NSW BKN025 TEMPO 1517/1524 3500 -SHRA SCT020TCU
+```
+
+**TAF changed since last run.**
+Previous:
 ```
 TAF LFPB 141700Z 1418/1518 10010KT CAVOK BECMG 1500/1502 19010KT BKN025 BECMG 1504/1506 OVC005 TEMPO 1508/1512 4000 -DZ BKN003 BECMG 1512/1513 19015G25KT 4500 -RA BKN015 TEMPO 1513/1517 2000 RA BECMG 1516/1517 21015G30KT 9999 NSW BKN025 TEMPO 1517/1518 3500 -SHRA SCT020TCU
 ```
 
-No change since last run.
-
 ## METAR (latest)
-`METAR LFPB 142300Z AUTO 07002KT CAVOK 04/02 Q1010 BECMG 19010KT`
+`METAR LFPB 150230Z AUTO 21006KT 9999 -RA BKN010/// BKN021/// BKN028/// ///CB 07/06 Q1009 TEMPO 4000 -DZRA BECMG OVC003`
 
 ## Meteo-France station observation (Le Bourget, 95088001)
-Validity: 2026-11-14T23:06:00Z
-Temp: 4.1°C, Humidity: 88.0%, Wind: 70°/0.8 m/s
+Validity: 2026-11-15T02:42:00Z
+Temp: 6.5°C, Humidity: 94.0%, Wind: 200°/3.9 m/s
