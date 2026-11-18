@@ -1,14 +1,14 @@
 {
-  "run_time": "2026-11-17T19:29:41.725391+00:00",
-  "forecast_day": "2026-11-17",
+  "run_time": "2026-11-18T09:30:52.795845+00:00",
+  "forecast_day": "2026-11-18",
   "models": {
-    "ecmwf_ifs025": 15.9,
-    "gfs_seamless": 16.8,
-    "icon_seamless": 16.6,
-    "meteofrance_seamless": 16.3,
-    "ukmo_seamless": 15.8,
-    "gem_seamless": 15.0
+    "ecmwf_ifs025": 13.6,
+    "gfs_seamless": 13.9,
+    "icon_seamless": 14.7,
+    "meteofrance_seamless": 14.0,
+    "ukmo_seamless": 14.7,
+    "gem_seamless": 12.1
   },
-  "taf_raw": "TAF LFPB 171700Z 1718/1818 20020G30KT 9999 BKN030 TEMPO 1718/1723 4000 -SHRA SCT025TCU PROB30 TEMPO 1718/1720 24030G40KT 1500 -TSRA BKN015CB TEMPO 1811/1815 SCT030TCU",
-  "metar_raw": "METAR LFPB 171900Z AUTO 21020KT 9999 SCT033/// BKN074/// BKN090/// ///TCU 15/09 Q0986"
+  "taf_raw": "TAF LFPB 180500Z 1806/1906 24015G30KT 9999 FEW025 PROB30 TEMPO 1813/1818 4500 -SHRA SCT020TCU BECMG 1815/1817 24012KT TEMPO 1822/1903 18015G25KT 3500 -SHRA BKN008TCU PROB30 TEMPO 1900/1903 19020G35KT 2000 -TSRA SCT020CB BECMG 1903/1905 23015G25KT",
+  "metar_raw": "METAR LFPB 180900Z AUTO 22017KT 9999 FEW028 13/09 Q0993 BECMG 24015G30KT"
 }
