@@ -1,17 +1,17 @@
-# LFPB weather report — 2026-11-18T18:21:10.524635+00:00
+# LFPB weather report — 2026-11-19T00:38:37.832334+00:00
 
-## Open-Meteo daily max (2026-11-18)
+## Open-Meteo daily max (2026-11-19)
 
 | Model | Prev (°C) | Now (°C) | Delta |
 |---|---|---|---|
-| ecmwf_ifs025 | 13.6 | 13.8 | +0.2 |
-| gfs_seamless | 13.9 | 14.6 | +0.7 |
-| icon_seamless | 14.7 | 14.9 | +0.2 |
-| meteofrance_seamless | 14.0 | 14.7 | +0.7 |
-| ukmo_seamless | 14.7 | 14.8 | +0.1 |
-| gem_seamless | 12.1 | 13.2 | +1.1 |
+| ecmwf_ifs025 | 13.8 | 13.3 | -0.5 |
+| gfs_seamless | 14.6 | 12.9 | -1.7 |
+| icon_seamless | 14.9 | 13.8 | -1.1 |
+| meteofrance_seamless | 14.7 | 13.1 | -1.6 |
+| ukmo_seamless | 14.8 | 13.2 | -1.6 |
+| gem_seamless | 13.2 | 11.6 | -1.6 |
 
-Consensus range: **13.2–14.9°C** (mean 14.3°C)
+Consensus range: **11.6–13.8°C** (mean 13.0°C)
 
 ## TAF
 Issued: 2026-11-18T17:00:00.000Z
@@ -19,15 +19,11 @@ Issued: 2026-11-18T17:00:00.000Z
 TAF LFPB 181700Z 1818/1918 22010KT CAVOK BECMG 1821/1823 18015G25KT 9999 BKN014 TEMPO 1823/1903 4000 SHRA BKN012TCU PROB30 TEMPO 1900/1901 19020G35KT 1500 -TSRA BKN010TCU SCT020CB BECMG 1903/1905 23015G25KT CAVOK TEMPO 1913/1918 SCT020TCU PROB40 TEMPO 1915/1918 4000 SHRA PROB30 TEMPO 1917/1918 2000 -TSRA SCT015CB
 ```
 
-**TAF changed since last run.**
-Previous:
-```
-TAF LFPB 180500Z 1806/1906 24015G30KT 9999 FEW025 PROB30 TEMPO 1813/1818 4500 -SHRA SCT020TCU BECMG 1815/1817 24012KT TEMPO 1822/1903 18015G25KT 3500 -SHRA BKN008TCU PROB30 TEMPO 1900/1903 19020G35KT 2000 -TSRA SCT020CB BECMG 1903/1905 23015G25KT
-```
+No change since last run.
 
 ## METAR (latest)
-`METAR LFPB 181800Z AUTO 19008KT CAVOK 13/08 Q0995 NOSIG`
+`METAR LFPB 190030Z AUTO 18013KT 9999 BKN022 OVC029 12/10 Q0989`
 
 ## Meteo-France station observation (Le Bourget, 95088001)
-Validity: 2026-11-18T18:12:00Z
-Temp: 12.5°C, Humidity: 74%, Wind: 190°/5.1 m/s
+Validity: 2026-11-19T00:24:00Z
+Temp: 12.0°C, Humidity: 85%, Wind: 180°/6.9 m/s
