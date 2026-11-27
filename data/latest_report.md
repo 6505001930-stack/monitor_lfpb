@@ -1,17 +1,17 @@
-# LFPB weather report — 2026-11-27T11:44:53.635629+00:00
+# LFPB weather report — 2026-11-27T12:54:23.635899+00:00
 
 ## Open-Meteo daily max (2026-11-27)
 
 | Model | Prev (°C) | Now (°C) | Delta |
 |---|---|---|---|
-| ecmwf_ifs025 | 3.3 | 3.4 | +0.1 |
-| gfs_seamless | 4.5 | 4.4 | -0.1 |
-| icon_seamless | 3.1 | 3.5 | +0.4 |
-| meteofrance_seamless | 4.4 | 4.2 | -0.2 |
-| ukmo_seamless | 2.6 | 2.2 | -0.4 |
-| gem_seamless | 2.4 | 2.6 | +0.2 |
+| ecmwf_ifs025 | 3.4 | 3.4 | 0.0 |
+| gfs_seamless | 4.4 | 4.4 | 0.0 |
+| icon_seamless | 3.5 | 3.7 | +0.2 |
+| meteofrance_seamless | 4.2 | 4.0 | -0.2 |
+| ukmo_seamless | 2.2 | 2.1 | -0.1 |
+| gem_seamless | 2.6 | 2.6 | 0.0 |
 
-Consensus range: **2.2–4.4°C** (mean 3.4°C)
+Consensus range: **2.1–4.4°C** (mean 3.4°C)
 
 ## TAF
 Issued: 2026-11-27T11:00:00.000Z
@@ -19,15 +19,11 @@ Issued: 2026-11-27T11:00:00.000Z
 TAF LFPB 271100Z 2712/2812 13010KT CAVOK
 ```
 
-**TAF changed since last run.**
-Previous:
-```
-TAF LFPB 262300Z 2700/2724 10005KT CAVOK
-```
+No change since last run.
 
 ## METAR (latest)
-`METAR LFPB 271130Z AUTO 15008KT CAVOK 03/M03 Q1022 NOSIG`
+`METAR LFPB 271230Z AUTO 12006KT 090V160 CAVOK 03/M03 Q1021 NOSIG`
 
 ## Meteo-France station observation (Le Bourget, 95088001)
-Validity: 2026-11-27T11:30:00Z
-Temp: 2.5°C, Humidity: 68%, Wind: 150°/4.0 m/s
+Validity: 2026-11-27T12:48:00Z
+Temp: 3.3°C, Humidity: 64%, Wind: 110°/2.3 m/s
