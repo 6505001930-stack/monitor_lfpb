@@ -1,17 +1,17 @@
-# LFPB weather report — 2026-11-27T23:41:06.768118+00:00
+# LFPB weather report — 2026-11-28T04:58:56.273047+00:00
 
-## Open-Meteo daily max (2026-11-27)
+## Open-Meteo daily max (2026-11-28)
 
 | Model | Prev (°C) | Now (°C) | Delta |
 |---|---|---|---|
-| ecmwf_ifs025 | 3.3 | 3.1 | -0.2 |
-| gfs_seamless | 4.4 | 3.9 | -0.5 |
-| icon_seamless | 3.7 | 3.7 | 0.0 |
-| meteofrance_seamless | 3.8 | 3.8 | 0.0 |
-| ukmo_seamless | 2.8 | 3.0 | +0.2 |
-| gem_seamless | 2.6 | 3.1 | +0.5 |
+| ecmwf_ifs025 | 3.1 | 4.2 | +1.1 |
+| gfs_seamless | 3.9 | 5.8 | +1.9 |
+| icon_seamless | 3.7 | 3.6 | -0.1 |
+| meteofrance_seamless | 3.8 | 4.4 | +0.6 |
+| ukmo_seamless | 3.0 | 4.3 | +1.3 |
+| gem_seamless | 3.1 | 2.8 | -0.3 |
 
-Consensus range: **3.0–3.9°C** (mean 3.4°C)
+Consensus range: **2.8–5.8°C** (mean 4.2°C)
 
 ## TAF
 Issued: 2026-11-27T17:00:00.000Z
@@ -19,15 +19,11 @@ Issued: 2026-11-27T17:00:00.000Z
 TAF LFPB 271700Z 2718/2818 11005KT CAVOK
 ```
 
-**TAF changed since last run.**
-Previous:
-```
-TAF LFPB 271100Z 2712/2812 13010KT CAVOK
-```
+No change since last run.
 
 ## METAR (latest)
-`METAR LFPB 272330Z AUTO 11006KT CAVOK M00/M03 Q1025`
+`METAR LFPB 280430Z AUTO 10008KT CAVOK M01/M04 Q1025`
 
 ## Meteo-France station observation (Le Bourget, 95088001)
-Validity: 2026-11-27T23:30:00Z
-Temp: -0.1°C, Humidity: 79%, Wind: 110°/3.0 m/s
+Validity: 2026-11-28T04:48:00Z
+Temp: -1.4°C, Humidity: 81%, Wind: 110°/3.2 m/s
